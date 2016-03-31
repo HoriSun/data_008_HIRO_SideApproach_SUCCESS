@@ -2,6 +2,7 @@
 *.png
 *.jpeg
 *.tiff
+*.eps
 
 # Initialization files
 *.ini
@@ -26,3 +27,6 @@
 # Adobe
 *.pdf
 *.ai
+
+# Matlab
+*.fig
