@@ -1,0 +1,15 @@
+# Figures
+*.png
+
+# Initialization files
+*.ini
+
+# Microsoft files or Libre or OpenOffice
+*.xls
+*.xlsx
+*.ods
+
+# Shell or Batch Files
+*.bat
+*.sh
+*.rb

@@ -1,0 +1,19 @@
+Iteration     : 1
+CompLabel     : a
+averageVal1   : 0.03493
+averageVal2   : 0.05295
+AVG_MAG_VAL   : 0.05074
+rmsVal1       : 0.03493
+rmsVal2       : 0.05484
+AVG_RMS_Val   : 0.04175
+amplitudeVal1 : 0.03483
+amplitudeVal2 : 0.01329
+AVG_AMP_VAL   : 0.03295
+Label 1       : bpos
+Label 2       : bpos
+t1Start       : 0.00000
+t1End         : 17.75000
+t2Start       : 17.75000
+t2End         : 26.91500
+tAvgIndex     : 13.45750
+

@@ -1,0 +1,195 @@
+Iteration     : 1
+Label         : k
+Average Val   : 0.54143
+RMS Val       : 0.61597
+Amplitude Val : 0.00438
+Label 1       : cons
+Label 2       : cons
+t1Start       : 0.00000
+t1End         : 14.77500
+t2Start       : 4.75000
+t2End         : 14.77500
+tAvgIndex     : 7.38750
+
+Iteration     : 2
+Label         : a
+Average Val   : 1.03767
+RMS Val       : 1.04342
+Amplitude Val : 0.46845
+Label 1       : cons
+Label 2       : sneg
+t1Start       : 14.77500
+t1End         : 15.65000
+t2Start       : 15.05000
+t2End         : 15.65000
+tAvgIndex     : 15.21250
+
+Iteration     : 3
+Label         : k
+Average Val   : 0.92349
+RMS Val       : 0.94050
+Amplitude Val : 1.43284
+Label 1       : cons
+Label 2       : mpos
+t1Start       : 15.65000
+t1End         : 16.57500
+t2Start       : 16.57500
+t2End         : 16.75000
+tAvgIndex     : 16.20000
+
+Iteration     : 4
+Label         : a
+Average Val   : -0.02766
+RMS Val       : 0.34951
+Amplitude Val : 2.52752
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 16.75000
+t1End         : 16.97500
+t2Start       : 16.97500
+t2End         : 17.17500
+tAvgIndex     : 16.96250
+
+Iteration     : 5
+Label         : a
+Average Val   : 0.19376
+RMS Val       : 0.27241
+Amplitude Val : 0.88981
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 17.17500
+t1End         : 17.35000
+t2Start       : 17.35000
+t2End         : 17.57500
+tAvgIndex     : 17.37500
+
+Iteration     : 6
+Label         : a
+Average Val   : 0.07145
+RMS Val       : 0.17602
+Amplitude Val : 0.80499
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 17.57500
+t1End         : 17.80000
+t2Start       : 17.80000
+t2End         : 18.02500
+tAvgIndex     : 17.80000
+
+Iteration     : 7
+Label         : a
+Average Val   : 0.22296
+RMS Val       : 0.26154
+Amplitude Val : 0.64130
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 18.02500
+t1End         : 18.22500
+t2Start       : 18.22500
+t2End         : 18.47500
+tAvgIndex     : 18.25000
+
+Iteration     : 8
+Label         : a
+Average Val   : 0.05631
+RMS Val       : 0.21233
+Amplitude Val : 0.99016
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 18.47500
+t1End         : 18.70000
+t2Start       : 18.70000
+t2End         : 18.90000
+tAvgIndex     : 18.68750
+
+Iteration     : 9
+Label         : a
+Average Val   : 0.24323
+RMS Val       : 0.26577
+Amplitude Val : 0.55989
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 18.90000
+t1End         : 19.12500
+t2Start       : 19.12500
+t2End         : 19.35000
+tAvgIndex     : 19.12500
+
+Iteration     : 10
+Label         : a
+Average Val   : 0.04753
+RMS Val       : 0.18625
+Amplitude Val : 1.01788
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 19.35000
+t1End         : 19.57500
+t2Start       : 19.57500
+t2End         : 19.82500
+tAvgIndex     : 19.58750
+
+Iteration     : 11
+Label         : d
+Average Val   : 0.13923
+RMS Val       : 0.15709
+Amplitude Val : 0.37086
+Label 1       : sneg
+Label 2       : cons
+t1Start       : 19.82500
+t1End         : 20.02500
+t2Start       : 20.02500
+t2End         : 20.35000
+tAvgIndex     : 20.08750
+
+Iteration     : 12
+Label         : a
+Average Val   : 0.05446
+RMS Val       : 0.16881
+Amplitude Val : 0.83347
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 20.35000
+t1End         : 20.67500
+t2Start       : 20.67500
+t2End         : 21.05000
+tAvgIndex     : 20.70000
+
+Iteration     : 13
+Label         : a
+Average Val   : 0.09851
+RMS Val       : 0.14487
+Amplitude Val : 0.51730
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 21.05000
+t1End         : 21.22500
+t2Start       : 21.22500
+t2End         : 21.50000
+tAvgIndex     : 21.27500
+
+Iteration     : 14
+Label         : a
+Average Val   : 0.01536
+RMS Val       : 0.20373
+Amplitude Val : 1.06225
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 21.50000
+t1End         : 21.75000
+t2Start       : 21.75000
+t2End         : 22.25000
+tAvgIndex     : 21.87500
+
+Iteration     : 15
+Label         : k
+Average Val   : 0.16471
+RMS Val       : 0.23244
+Amplitude Val : 0.00000
+Label 1       : cons
+Label 2       : cons
+t1Start       : 22.25000
+t1End         : 33.29000
+t2Start       : 22.77500
+t2End         : 33.29000
+tAvgIndex     : 27.77000
+

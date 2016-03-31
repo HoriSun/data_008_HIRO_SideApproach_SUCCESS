@@ -1,0 +1,114 @@
+Iteration     : 1
+CompLabel     : a
+averageVal1   : 0.09994
+averageVal2   : 0.09994
+AVG_MAG_VAL   : 0.09994
+rmsVal1       : 0.09994
+rmsVal2       : 0.09994
+AVG_RMS_Val   : 0.09994
+amplitudeVal1 : 0.00000
+amplitudeVal2 : 0.00000
+AVG_AMP_VAL   : 0.00000
+Label 1       : bneg
+Label 2       : none
+t1Start       : 0.00000
+t1End         : 10.17500
+t2Start       : 6.85000
+t2End         : 10.17500
+tAvgIndex     : 5.08750
+
+Iteration     : 2
+CompLabel     : nc
+averageVal1   : 0.30550
+averageVal2   : 0.07985
+AVG_MAG_VAL   : 0.20483
+rmsVal1       : 0.30587
+rmsVal2       : 0.31592
+AVG_RMS_Val   : 0.20052
+amplitudeVal1 : 0.09138
+amplitudeVal2 : 0.59893
+AVG_AMP_VAL   : 0.32187
+Label 1       : sneg
+Label 2       : sneg
+t1Start       : 10.17500
+t1End         : 15.12500
+t2Start       : 15.12500
+t2End         : 16.75000
+tAvgIndex     : 13.46250
+
+Iteration     : 3
+CompLabel     : pc
+averageVal1   : -0.32829
+averageVal2   : -0.32362
+AVG_MAG_VAL   : -0.32843
+rmsVal1       : 0.35713
+rmsVal2       : -0.32362
+AVG_RMS_Val   : -0.03766
+amplitudeVal1 : 0.77509
+amplitudeVal2 : 0.29078
+AVG_AMP_VAL   : 0.43857
+Label 1       : mneg
+Label 2       : mneg
+t1Start       : 16.75000
+t1End         : 17.57500
+t2Start       : 17.57500
+t2End         : 18.05000
+tAvgIndex     : 17.40000
+
+Iteration     : 4
+CompLabel     : d
+averageVal1   : -0.27202
+averageVal2   : -0.27202
+AVG_MAG_VAL   : -0.27202
+rmsVal1       : -0.27202
+rmsVal2       : -0.27202
+AVG_RMS_Val   : -0.27202
+amplitudeVal1 : 0.04759
+amplitudeVal2 : 0.04759
+AVG_AMP_VAL   : 0.04759
+Label 1       : spos
+Label 2       : none
+t1Start       : 18.05000
+t1End         : 18.20000
+t2Start       : 18.20000
+t2End         : 18.47500
+tAvgIndex     : 18.26250
+
+Iteration     : 5
+CompLabel     : pc
+averageVal1   : -0.25418
+averageVal2   : -0.09203
+AVG_MAG_VAL   : -0.14895
+rmsVal1       : 0.26920
+rmsVal2       : -0.09203
+AVG_RMS_Val   : 0.07048
+amplitudeVal1 : 0.35564
+amplitudeVal2 : 0.28323
+AVG_AMP_VAL   : 0.23178
+Label 1       : mneg
+Label 2       : mneg
+t1Start       : 18.47500
+t1End         : 21.47500
+t2Start       : 21.47500
+t2End         : 23.40000
+tAvgIndex     : 20.93750
+
+Iteration     : 6
+CompLabel     : a
+averageVal1   : -0.05907
+averageVal2   : -0.05907
+AVG_MAG_VAL   : -0.05907
+rmsVal1       : 0.09628
+rmsVal2       : 0.09628
+AVG_RMS_Val   : 0.06808
+amplitudeVal1 : 0.33685
+amplitudeVal2 : 0.33685
+AVG_AMP_VAL   : 0.33685
+Label 1       : bneg
+Label 2       : bneg
+t1Start       : 23.40000
+t1End         : 33.29000
+t2Start       : 23.40000
+t2End         : 33.29000
+tAvgIndex     : 28.34500
+
